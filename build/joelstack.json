@@ -1,0 +1,12 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Description": "Joels CloudFormation stack",
+  "Resources": {
+    "FooBar": {
+      "Properties": {
+        "Name": "Heisenberg"
+      },
+      "Type": "AWS::Some::Resource"
+    }
+  }
+}
